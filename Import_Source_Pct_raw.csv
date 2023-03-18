@@ -1,0 +1,136 @@
+﻿Metal,Subcategory,Country,Percentage
+Aluminum,Total,Canada,50
+Aluminum,Total,United Arab Emirates,9
+Aluminum,Total,Russia,6
+Aluminum,Total,China,4
+Aluminum,Total,Other,31
+Boron,Total,Turkey ,88
+Boron,Total,Bolivia,5
+Boron,Total,Chile,3
+Boron,Total,Other,4
+Cobalt,"Cobalt contained in metal, oxide, and salts ",Norway,20
+Cobalt,"Cobalt contained in metal, oxide, and salts ",Canada,16
+Cobalt,"Cobalt contained in metal, oxide, and salts ",Japan,13
+Cobalt,"Cobalt contained in metal, oxide, and salts ",Finland,11
+Cobalt,"Cobalt contained in metal, oxide, and salts ",Other,40
+Chromium,Chromite ores and concentrates,South Africa,99
+Chromium,Chromite ores and concentrates,Other,1
+Chromium,Chromium-containing scrap,United Kingdom,53
+Chromium,Chromium-containing scrap,Canada ,28
+Chromium,Chromium-containing scrap,Japan,9
+Chromium,Chromium-containing scrap,Other,10
+Chromium,Chromium primary metal,Russia,36
+Chromium,Chromium primary metal,United Kingdom,23
+Chromium,Chromium primary metal,France,21
+Chromium,Chromium primary metal,China,15
+Chromium,Chromium primary metal,Other,5
+Chromium,Total,South Africa,38
+Chromium,Total,Kazakhstan,9
+Chromium,Total,Russia,7
+Chromium,Total,Mexico,6
+Chromium,Total,Other,40
+Gallium,Total,China,53
+Gallium,Total,United Kingdom,11
+Gallium,Total,Germany,9
+Gallium,Total,Ukraine,7
+Gallium,Total,Other,20
+Germanium,Total,China,53
+Germanium,Total,Belgium,22
+Germanium,Total,Germany,11
+Germanium,Total,Russia,9
+Germanium,Total,Other,5
+Graphite,Total,China,33
+Graphite,Total,Mexico,21
+Graphite,Total,Canada,17
+Graphite,Total,India,9
+Graphite,Total,Other,20
+Silicon,Ferrosilicon,Russia,40
+Silicon,Ferrosilicon,Canada,14
+Silicon,Ferrosilicon,Brazil,10
+Silicon,Ferrosilicon,Iceland,8
+Silicon,Ferrosilicon,Other,28
+Silicon,Silicon metal,Brazil,30
+Silicon,Silicon metal,Canada,21
+Silicon,Silicon metal,Norway,13
+Silicon,Silicon metal,Australia ,8
+Silicon,Silicon metal,Other ,28
+Silicon,Total,Russia,21
+Silicon,Total,Brazil,20
+Silicon,Total,Canada,17
+Silicon,Total,Norway,7
+Silicon,Total,Other,35
+Tantalum,Tantalum ores and concentrates,Australia ,36
+Tantalum,Tantalum ores and concentrates,Rwanda,34
+Tantalum,Tantalum ores and concentrates,Congo (Kinshasa),7
+Tantalum,Tantalum ores and concentrates,Mozambique,6
+Tantalum,Tantalum ores and concentrates,Other,17
+Tantalum,Tantalum metal and powder,China ,39
+Tantalum,Tantalum metal and powder,Germany ,22
+Tantalum,Tantalum metal and powder,Kazakhstan,12
+Tantalum,Tantalum metal and powder,Thailand,12
+Tantalum,Tantalum metal and powder,Other ,15
+Tantalum,Tantalum waste and scrap,Indonesia,20
+Tantalum,Tantalum waste and scrap,China ,17
+Tantalum,Tantalum waste and scrap,Japan,16
+Tantalum,Tantalum waste and scrap,Other,47
+Tantalum,Total,China,23
+Tantalum,Total,Germany,11
+Tantalum,Total,Australia,8
+Tantalum,Total,Indonesia,8
+Tantalum,Total,Other,50
+Tin,Refined tin,Indonesia,25
+Tin,Refined tin,Peru,22
+Tin,Refined tin,Malaysia,19
+Tin,Refined tin,Bolivia,17
+Tin,Refined tin,Other,17
+Tin,Waste and scrap,Canada,99
+Tin,Waste and scrap,Other,1
+Titanium,Total,South Africa,41
+Titanium,Total,Australia ,17
+Titanium,Total,Madagascar,12
+Titanium,Total,Mozambique,8
+Titanium,Total,Other,22
+Vanadium, Ferrovanadium,Austria ,44
+Vanadium, Ferrovanadium,Canada,33
+Vanadium, Ferrovanadium,Russia,12
+Vanadium, Ferrovanadium,Japan,4
+Vanadium, Ferrovanadium,Other,7
+Vanadium,Vanadium pentoxide: ,Brazil,47
+Vanadium,Vanadium pentoxide: ,South Africa,35
+Vanadium,Vanadium pentoxide: ,China,8
+Vanadium,Vanadium pentoxide: ,Taiwan ,5
+Vanadium,Vanadium pentoxide: ,Other ,5
+Vanadium,Total,Canada ,26
+Vanadium,Total,China ,14
+Vanadium,Total,Brazil,10
+Vanadium,Total,South Africa,9
+Vanadium,Total,Other,41
+Zirconium,Zirconium ores and concentrates,South Africa,54
+Zirconium,Zirconium ores and concentrates,Senegal,25
+Zirconium,Zirconium ores and concentrates,Australia,19
+Zirconium,Zirconium ores and concentrates,Russia,2
+Zirconium,Zirconium ores and concentrates,Other,1
+Zirconium,"Zirconium, unwrought, including powder",China ,89
+Zirconium,"Zirconium, unwrought, including powder",Germany,8
+Zirconium,"Zirconium, unwrought, including powder",Other ,3
+Zirconium,"Zirconium, wrought",France,64
+Zirconium,"Zirconium, wrought",Germany,18
+Zirconium,"Zirconium, wrought",Belgium,5
+Zirconium,"Zirconium, wrought",Other ,13
+Niobium,Niobium and tantalum ores and concentrates,Austria,36
+Niobium,Niobium and tantalum ores and concentrates,Rwanda,34
+Niobium,Niobium and tantalum ores and concentrates,Congo (Kinshasa),7
+Niobium,Niobium and tantalum ores and concentrates,Mozambique,6
+Niobium,Niobium and tantalum ores and concentrates,Other,17
+Niobium,Niobium oxide,Brazil,60
+Niobium,Niobium oxide,Thailand,15
+Niobium,Niobium oxide,Russia,11
+Niobium,Niobium oxide,Estonia,6
+Niobium,Niobium oxide,Other,8
+Niobium,Ferroniobium and niobium metal,Brazil,67
+Niobium,Ferroniobium and niobium metal,Canada,31
+Niobium,Ferroniobium and niobium metal,Germany,1
+Niobium,Ferroniobium and niobium metal,Other,1
+Niobium,Total,Brazil,65
+Niobium,Total,Canada,27
+Niobium,Total,Other,8
