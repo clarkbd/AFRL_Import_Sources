@@ -1,0 +1,136 @@
+,Metal,Subcategory,Country,Percentage,name,alpha-2,alpha-3,country-code,iso_3166-2,region,sub-region,intermediate-region,region-code,sub-region-code,intermediate-region-code,Category,URL,Rank Order,Color,Color Code
+0,Aluminum,Total,Canada,50,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+1,Aluminum,Total,United Arab Emirates,9,United Arab Emirates,AE,ARE,784,ISO 3166-2:AE,Asia,Western Asia,,142,145,,Strong Partner,https://www.state.gov/u-s-relations-with-United Arab Emirates,4,Light Green 1,#27AE60
+2,Aluminum,Total,Russia,6,Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,,150,151,,Strategic Competitor,https://www.state.gov/u-s-relations-with-Russia,9,Red,#EC7063
+3,Aluminum,Total,China,4,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+4,Aluminum,Total,Other,31,,,,,,,,,,,,,,,,
+5,Boron,Total,Turkey,88,Turkey,TR,TUR,792,ISO 3166-2:TR,Asia,Western Asia,,142,145,,NATO Member,https://www.state.gov/u-s-relations-with-Turkey ,1,Blue,#3498DB
+6,Boron,Total,Bolivia,5,Bolivia,BO,BOL,68,ISO 3166-2:BO,Americas,Latin America and the Caribbean,South America,19,419,5,Very Limited Partner,https://www.state.gov/u-s-relations-with-Bolivia,7,Yellow,#F9E79F
+7,Boron,Total,Chile,3,Chile,CL,CHL,152,ISO 3166-2:CL,Americas,Latin America and the Caribbean,South America,19,419,5,Strong Partner,https://www.state.gov/u-s-relations-with-Chile,4,Light Green 1,#27AE60
+8,Boron,Total,Other,4,,,,,,,,,,,,,,,,
+9,Cobalt,"Cobalt contained in metal, oxide, and salts ",Norway,20,Norway,NO,NOR,578,ISO 3166-2:NO,Europe,Northern Europe,,150,154,,NATO Member,https://www.state.gov/u-s-relations-with-Norway,1,Blue,#3498DB
+10,Cobalt,"Cobalt contained in metal, oxide, and salts ",Canada,16,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+11,Cobalt,"Cobalt contained in metal, oxide, and salts ",Japan,13,Japan,JP,JPN,392,ISO 3166-2:JP,Asia,Eastern Asia,,142,30,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Japan,2,Light Blue 1,#5DADE2
+12,Cobalt,"Cobalt contained in metal, oxide, and salts ",Finland,11,Finland,FI,FIN,246,ISO 3166-2:FI,Europe,Northern Europe,,150,154,,Strategic Partner,https://www.state.gov/u-s-relations-with-Finland,3,Light Blue 2,#AED6F1
+13,Cobalt,"Cobalt contained in metal, oxide, and salts ",Other,40,,,,,,,,,,,,,,,,
+14,Chromium,Chromite ores and concentrates,South Africa,99,South Africa,ZA,ZAF,710,ISO 3166-2:ZA,Africa,Sub-Saharan Africa,Southern Africa,2,202,18,Strategic Partner,https://www.state.gov/u-s-relations-with-South Africa,3,Light Blue 2,#AED6F1
+15,Chromium,Chromite ores and concentrates,Other,1,,,,,,,,,,,,,,,,
+16,Chromium,Chromium-containing scrap,United Kingdom,53,United Kingdom,GB,GBR,826,ISO 3166-2:GB,Europe,Northern Europe,,150,154,,NATO Member,https://www.state.gov/u-s-relations-with-United Kingdom,1,Blue,#3498DB
+17,Chromium,Chromium-containing scrap,Canada,28,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+18,Chromium,Chromium-containing scrap,Japan,9,Japan,JP,JPN,392,ISO 3166-2:JP,Asia,Eastern Asia,,142,30,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Japan,2,Light Blue 1,#5DADE2
+19,Chromium,Chromium-containing scrap,Other,10,,,,,,,,,,,,,,,,
+20,Chromium,Chromium primary metal,Russia,36,Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,,150,151,,Strategic Competitor,https://www.state.gov/u-s-relations-with-Russia,9,Red,#EC7063
+21,Chromium,Chromium primary metal,United Kingdom,23,United Kingdom,GB,GBR,826,ISO 3166-2:GB,Europe,Northern Europe,,150,154,,NATO Member,https://www.state.gov/u-s-relations-with-United Kingdom,1,Blue,#3498DB
+22,Chromium,Chromium primary metal,France,21,France,FR,FRA,250,ISO 3166-2:FR,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-France,1,Blue,#3498DB
+23,Chromium,Chromium primary metal,China,15,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+24,Chromium,Chromium primary metal,Other,5,,,,,,,,,,,,,,,,
+25,Chromium,Total,South Africa,38,South Africa,ZA,ZAF,710,ISO 3166-2:ZA,Africa,Sub-Saharan Africa,Southern Africa,2,202,18,Strategic Partner,https://www.state.gov/u-s-relations-with-South Africa,3,Light Blue 2,#AED6F1
+26,Chromium,Total,Kazakhstan,9,Kazakhstan,KZ,KAZ,398,ISO 3166-2:KZ,Asia,Central Asia,,142,143,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Kazakhstan,2,Light Blue 1,#5DADE2
+27,Chromium,Total,Russia,7,Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,,150,151,,Strategic Competitor,https://www.state.gov/u-s-relations-with-Russia,9,Red,#EC7063
+28,Chromium,Total,Mexico,6,Mexico,MX,MEX,484,ISO 3166-2:MX,Americas,Latin America and the Caribbean,Central America,19,419,13,Strong Partner,https://www.state.gov/u-s-relations-with-Mexico,4,Light Green 1,#27AE60
+29,Chromium,Total,Other,40,,,,,,,,,,,,,,,,
+30,Gallium,Total,China,53,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+31,Gallium,Total,United Kingdom,11,United Kingdom,GB,GBR,826,ISO 3166-2:GB,Europe,Northern Europe,,150,154,,NATO Member,https://www.state.gov/u-s-relations-with-United Kingdom,1,Blue,#3498DB
+32,Gallium,Total,Germany,9,Germany,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-Germany,1,Blue,#3498DB
+33,Gallium,Total,Ukraine,7,Ukraine,UA,UKR,804,ISO 3166-2:UA,Europe,Eastern Europe,,150,151,,Strong Partner,https://www.state.gov/u-s-relations-with-Ukraine,4,Light Green 1,#27AE60
+34,Gallium,Total,Other,20,,,,,,,,,,,,,,,,
+35,Germanium,Total,China,53,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+36,Germanium,Total,Belgium,22,Belgium,BE,BEL,56,ISO 3166-2:BE,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-Belgium,1,Blue,#3498DB
+37,Germanium,Total,Germany,11,Germany,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-Germany,1,Blue,#3498DB
+38,Germanium,Total,Russia,9,Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,,150,151,,Strategic Competitor,https://www.state.gov/u-s-relations-with-Russia,9,Red,#EC7063
+39,Germanium,Total,Other,5,,,,,,,,,,,,,,,,
+40,Graphite,Total,China,33,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+41,Graphite,Total,Mexico,21,Mexico,MX,MEX,484,ISO 3166-2:MX,Americas,Latin America and the Caribbean,Central America,19,419,13,Strong Partner,https://www.state.gov/u-s-relations-with-Mexico,4,Light Green 1,#27AE60
+42,Graphite,Total,Canada,17,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+43,Graphite,Total,India,9,India,IN,IND,356,ISO 3166-2:IN,Asia,Southern Asia,,142,34,,NATO Member,https://www.state.gov/u-s-relations-with-India,1,Blue,#3498DB
+44,Graphite,Total,Other,20,,,,,,,,,,,,,,,,
+45,Silicon,Ferrosilicon,Russia,40,Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,,150,151,,Strategic Competitor,https://www.state.gov/u-s-relations-with-Russia,9,Red,#EC7063
+46,Silicon,Ferrosilicon,Canada,14,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+47,Silicon,Ferrosilicon,Brazil,10,Brazil,BR,BRA,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19,419,5,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Brazil,2,Light Blue 1,#5DADE2
+48,Silicon,Ferrosilicon,Iceland,8,Iceland,IS,ISL,352,ISO 3166-2:IS,Europe,Northern Europe,,150,154,,NATO Member,https://www.state.gov/u-s-relations-with-Iceland,1,Blue,#3498DB
+49,Silicon,Ferrosilicon,Other,28,,,,,,,,,,,,,,,,
+50,Silicon,Silicon metal,Brazil,30,Brazil,BR,BRA,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19,419,5,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Brazil,2,Light Blue 1,#5DADE2
+51,Silicon,Silicon metal,Canada,21,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+52,Silicon,Silicon metal,Norway,13,Norway,NO,NOR,578,ISO 3166-2:NO,Europe,Northern Europe,,150,154,,NATO Member,https://www.state.gov/u-s-relations-with-Norway,1,Blue,#3498DB
+53,Silicon,Silicon metal,Australia,8,Australia,AU,AUS,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,,9,53,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Australia /,2,Light Blue 1,#5DADE2
+54,Silicon,Silicon metal,Other,28,,,,,,,,,,,,,,,,
+55,Silicon,Total,Russia,21,Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,,150,151,,Strategic Competitor,https://www.state.gov/u-s-relations-with-Russia,9,Red,#EC7063
+56,Silicon,Total,Brazil,20,Brazil,BR,BRA,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19,419,5,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Brazil,2,Light Blue 1,#5DADE2
+57,Silicon,Total,Canada,17,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+58,Silicon,Total,Norway,7,Norway,NO,NOR,578,ISO 3166-2:NO,Europe,Northern Europe,,150,154,,NATO Member,https://www.state.gov/u-s-relations-with-Norway,1,Blue,#3498DB
+59,Silicon,Total,Other,35,,,,,,,,,,,,,,,,
+60,Tantalum,Tantalum ores and concentrates,Australia,36,Australia,AU,AUS,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,,9,53,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Australia /,2,Light Blue 1,#5DADE2
+61,Tantalum,Tantalum ores and concentrates,Rwanda,34,Rwanda,RW,RWA,646,ISO 3166-2:RW,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14,Limited Partner,https://www.state.gov/u-s-relations-with-Rwanda/,5,Lught Green 2,#58D68D
+62,Tantalum,Tantalum ores and concentrates,Congo (Kinshasa),7,,,,,,,,,,,,,,,,
+63,Tantalum,Tantalum ores and concentrates,Mozambique,6,Mozambique,MZ,MOZ,508,ISO 3166-2:MZ,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14,Limited Partner,https://www.state.gov/u-s-relations-with-Mozambique/,5,Lught Green 2,#58D68D
+64,Tantalum,Tantalum ores and concentrates,Other,17,,,,,,,,,,,,,,,,
+65,Tantalum,Tantalum metal and powder,China,39,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+66,Tantalum,Tantalum metal and powder,Germany,22,Germany,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-Germany,1,Blue,#3498DB
+67,Tantalum,Tantalum metal and powder,Kazakhstan,12,Kazakhstan,KZ,KAZ,398,ISO 3166-2:KZ,Asia,Central Asia,,142,143,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Kazakhstan,2,Light Blue 1,#5DADE2
+68,Tantalum,Tantalum metal and powder,Thailand,12,Thailand,TH,THA,764,ISO 3166-2:TH,Asia,South-eastern Asia,,142,35,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Thailand,2,Light Blue 1,#5DADE2
+69,Tantalum,Tantalum metal and powder,Other,15,,,,,,,,,,,,,,,,
+70,Tantalum,Tantalum waste and scrap,Indonesia,20,Indonesia,ID,IDN,360,ISO 3166-2:ID,Asia,South-eastern Asia,,142,35,,Strategic Partner,https://www.state.gov/u-s-relations-with-Indonesia,3,Light Blue 2,#AED6F1
+71,Tantalum,Tantalum waste and scrap,China,17,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+72,Tantalum,Tantalum waste and scrap,Japan,16,Japan,JP,JPN,392,ISO 3166-2:JP,Asia,Eastern Asia,,142,30,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Japan,2,Light Blue 1,#5DADE2
+73,Tantalum,Tantalum waste and scrap,Other,47,,,,,,,,,,,,,,,,
+74,Tantalum,Total,China,23,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+75,Tantalum,Total,Germany,11,Germany,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-Germany,1,Blue,#3498DB
+76,Tantalum,Total,Australia,8,Australia,AU,AUS,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,,9,53,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Australia /,2,Light Blue 1,#5DADE2
+77,Tantalum,Total,Indonesia,8,Indonesia,ID,IDN,360,ISO 3166-2:ID,Asia,South-eastern Asia,,142,35,,Strategic Partner,https://www.state.gov/u-s-relations-with-Indonesia,3,Light Blue 2,#AED6F1
+78,Tantalum,Total,Other,50,,,,,,,,,,,,,,,,
+79,Tin,Refined tin,Indonesia,25,Indonesia,ID,IDN,360,ISO 3166-2:ID,Asia,South-eastern Asia,,142,35,,Strategic Partner,https://www.state.gov/u-s-relations-with-Indonesia,3,Light Blue 2,#AED6F1
+80,Tin,Refined tin,Peru,22,Peru,PE,PER,604,ISO 3166-2:PE,Americas,Latin America and the Caribbean,South America,19,419,5,NATO Member,https://www.state.gov/u-s-relations-with-Peru,1,Blue,#3498DB
+81,Tin,Refined tin,Malaysia,19,Malaysia,MY,MYS,458,ISO 3166-2:MY,Asia,South-eastern Asia,,142,35,,Strong Partner,https://www.state.gov/u-s-relations-with-Malaysia,4,Light Green 1,#27AE60
+82,Tin,Refined tin,Bolivia,17,Bolivia,BO,BOL,68,ISO 3166-2:BO,Americas,Latin America and the Caribbean,South America,19,419,5,Very Limited Partner,https://www.state.gov/u-s-relations-with-Bolivia,7,Yellow,#F9E79F
+83,Tin,Refined tin,Other,17,,,,,,,,,,,,,,,,
+84,Tin,Waste and scrap,Canada,99,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+85,Tin,Waste and scrap,Other,1,,,,,,,,,,,,,,,,
+86,Titanium,Total,South Africa,41,South Africa,ZA,ZAF,710,ISO 3166-2:ZA,Africa,Sub-Saharan Africa,Southern Africa,2,202,18,Strategic Partner,https://www.state.gov/u-s-relations-with-South Africa,3,Light Blue 2,#AED6F1
+87,Titanium,Total,Australia,17,Australia,AU,AUS,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,,9,53,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Australia /,2,Light Blue 1,#5DADE2
+88,Titanium,Total,Madagascar,12,Madagascar,MG,MDG,450,ISO 3166-2:MG,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14,Limited Partner,https://www.state.gov/u-s-relations-with-Madagascar/,5,Lught Green 2,#58D68D
+89,Titanium,Total,Mozambique,8,Mozambique,MZ,MOZ,508,ISO 3166-2:MZ,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14,Limited Partner,https://www.state.gov/u-s-relations-with-Mozambique/,5,Lught Green 2,#58D68D
+90,Titanium,Total,Other,22,,,,,,,,,,,,,,,,
+91,Vanadium,Ferrovanadium,Austria,44,Austria,AT,AUT,40,ISO 3166-2:AT,Europe,Western Europe,,150,155,,Strategic Partner,https://www.state.gov/u-s-relations-with-Austria ,3,Light Blue 2,#AED6F1
+92,Vanadium,Ferrovanadium,Canada,33,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+93,Vanadium,Ferrovanadium,Russia,12,Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,,150,151,,Strategic Competitor,https://www.state.gov/u-s-relations-with-Russia,9,Red,#EC7063
+94,Vanadium,Ferrovanadium,Japan,4,Japan,JP,JPN,392,ISO 3166-2:JP,Asia,Eastern Asia,,142,30,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Japan,2,Light Blue 1,#5DADE2
+95,Vanadium,Ferrovanadium,Other,7,,,,,,,,,,,,,,,,
+96,Vanadium,Vanadium pentoxide: ,Brazil,47,Brazil,BR,BRA,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19,419,5,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Brazil,2,Light Blue 1,#5DADE2
+97,Vanadium,Vanadium pentoxide: ,South Africa,35,South Africa,ZA,ZAF,710,ISO 3166-2:ZA,Africa,Sub-Saharan Africa,Southern Africa,2,202,18,Strategic Partner,https://www.state.gov/u-s-relations-with-South Africa,3,Light Blue 2,#AED6F1
+98,Vanadium,Vanadium pentoxide: ,China,8,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+99,Vanadium,Vanadium pentoxide: ,Taiwan,5,,,,,,,,,,,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Taiwan ,2,Light Blue 1,#5DADE2
+100,Vanadium,Vanadium pentoxide: ,Other,5,,,,,,,,,,,,,,,,
+101,Vanadium,Total,Canada,26,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+102,Vanadium,Total,China,14,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+103,Vanadium,Total,Brazil,10,Brazil,BR,BRA,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19,419,5,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Brazil,2,Light Blue 1,#5DADE2
+104,Vanadium,Total,South Africa,9,South Africa,ZA,ZAF,710,ISO 3166-2:ZA,Africa,Sub-Saharan Africa,Southern Africa,2,202,18,Strategic Partner,https://www.state.gov/u-s-relations-with-South Africa,3,Light Blue 2,#AED6F1
+105,Vanadium,Total,Other,41,,,,,,,,,,,,,,,,
+106,Zirconium,Zirconium ores and concentrates,South Africa,54,South Africa,ZA,ZAF,710,ISO 3166-2:ZA,Africa,Sub-Saharan Africa,Southern Africa,2,202,18,Strategic Partner,https://www.state.gov/u-s-relations-with-South Africa,3,Light Blue 2,#AED6F1
+107,Zirconium,Zirconium ores and concentrates,Senegal,25,Senegal,SN,SEN,686,ISO 3166-2:SN,Africa,Sub-Saharan Africa,Western Africa,2,202,11,Partner,https://www.state.gov/u-s-relations-with-Senegal,6,green,#ABEBC6
+108,Zirconium,Zirconium ores and concentrates,Australia,19,Australia,AU,AUS,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,,9,53,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Australia /,2,Light Blue 1,#5DADE2
+109,Zirconium,Zirconium ores and concentrates,Russia,2,Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,,150,151,,Strategic Competitor,https://www.state.gov/u-s-relations-with-Russia,9,Red,#EC7063
+110,Zirconium,Zirconium ores and concentrates,Other,1,,,,,,,,,,,,,,,,
+111,Zirconium,"Zirconium, unwrought, including powder",China,89,China,CN,CHN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142,30,,Strategic Competitor,https://www.state.gov/u-s-relations-with-China ,9,Red,#EC7063
+112,Zirconium,"Zirconium, unwrought, including powder",Germany,8,Germany,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-Germany,1,Blue,#3498DB
+113,Zirconium,"Zirconium, unwrought, including powder",Other,3,,,,,,,,,,,,,,,,
+114,Zirconium,"Zirconium, wrought",France,64,France,FR,FRA,250,ISO 3166-2:FR,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-France,1,Blue,#3498DB
+115,Zirconium,"Zirconium, wrought",Germany,18,Germany,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-Germany,1,Blue,#3498DB
+116,Zirconium,"Zirconium, wrought",Belgium,5,Belgium,BE,BEL,56,ISO 3166-2:BE,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-Belgium,1,Blue,#3498DB
+117,Zirconium,"Zirconium, wrought",Other,13,,,,,,,,,,,,,,,,
+118,Niobium,Niobium and tantalum ores and concentrates,Austria,36,Austria,AT,AUT,40,ISO 3166-2:AT,Europe,Western Europe,,150,155,,Strategic Partner,https://www.state.gov/u-s-relations-with-Austria ,3,Light Blue 2,#AED6F1
+119,Niobium,Niobium and tantalum ores and concentrates,Rwanda,34,Rwanda,RW,RWA,646,ISO 3166-2:RW,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14,Limited Partner,https://www.state.gov/u-s-relations-with-Rwanda/,5,Lught Green 2,#58D68D
+120,Niobium,Niobium and tantalum ores and concentrates,Congo (Kinshasa),7,,,,,,,,,,,,,,,,
+121,Niobium,Niobium and tantalum ores and concentrates,Mozambique,6,Mozambique,MZ,MOZ,508,ISO 3166-2:MZ,Africa,Sub-Saharan Africa,Eastern Africa,2,202,14,Limited Partner,https://www.state.gov/u-s-relations-with-Mozambique/,5,Lught Green 2,#58D68D
+122,Niobium,Niobium and tantalum ores and concentrates,Other,17,,,,,,,,,,,,,,,,
+123,Niobium,Niobium oxide,Brazil,60,Brazil,BR,BRA,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19,419,5,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Brazil,2,Light Blue 1,#5DADE2
+124,Niobium,Niobium oxide,Thailand,15,Thailand,TH,THA,764,ISO 3166-2:TH,Asia,South-eastern Asia,,142,35,,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Thailand,2,Light Blue 1,#5DADE2
+125,Niobium,Niobium oxide,Russia,11,Russia,RU,RUS,643,ISO 3166-2:RU,Europe,Eastern Europe,,150,151,,Strategic Competitor,https://www.state.gov/u-s-relations-with-Russia,9,Red,#EC7063
+126,Niobium,Niobium oxide,Estonia,6,Estonia,EE,EST,233,ISO 3166-2:EE,Europe,Northern Europe,,150,154,,NATO Member,https://www.state.gov/u-s-relations-with-Estonia,1,Blue,#3498DB
+127,Niobium,Niobium oxide,Other,8,,,,,,,,,,,,,,,,
+128,Niobium,Ferroniobium and niobium metal,Brazil,67,Brazil,BR,BRA,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19,419,5,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Brazil,2,Light Blue 1,#5DADE2
+129,Niobium,Ferroniobium and niobium metal,Canada,31,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+130,Niobium,Ferroniobium and niobium metal,Germany,1,Germany,DE,DEU,276,ISO 3166-2:DE,Europe,Western Europe,,150,155,,NATO Member,https://www.state.gov/u-s-relations-with-Germany,1,Blue,#3498DB
+131,Niobium,Ferroniobium and niobium metal,Other,1,,,,,,,,,,,,,,,,
+132,Niobium,Total,Brazil,65,Brazil,BR,BRA,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19,419,5,Major Non-NATO Ally,https://www.state.gov/u-s-relations-with-Brazil,2,Light Blue 1,#5DADE2
+133,Niobium,Total,Canada,27,Canada,CA,CAN,124,ISO 3166-2:CA,Americas,Northern America,,19,21,,NATO Member,https://www.state.gov/u-s-relations-with-Canada ,1,Blue,#3498DB
+134,Niobium,Total,Other,8,,,,,,,,,,,,,,,,
