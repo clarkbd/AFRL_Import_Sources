@@ -87,3 +87,6 @@ def update_graph(metal_value, subcategory):
 
 if __name__ == '__main__':
     app.run_server(debug=True)
+
+
+###COMMENT
