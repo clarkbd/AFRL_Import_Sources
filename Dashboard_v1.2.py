@@ -78,7 +78,7 @@ def update_graph(metal_value, subcategory):
     piechart = px.pie(
         data_frame=dff2,
         values='Percentage', names='Country', title='Import Source Percentage - ' + subcategory, labels='Country',
-        color=dff['Category'],
+        color=dff2['Category'],
         color_discrete_map=color_dictionary,
         hole=.3)
 
