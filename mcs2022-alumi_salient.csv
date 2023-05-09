@@ -1,0 +1,6 @@
+﻿DataSource,Commodity,Year,USprod_Primary_kt,USprod_Secondary-old_kt,USprod_Secondary-new_kt,Imports_Crude_kt,Imports_Scrap_kt,Exports_Crude_kt,Exports_Scrap_kt,Consump_kt,Supply_kt,Price_Ingot_ctslb,Stocks_kt,Stocks_LME_kt,Employment_num,NIR_pct
+MCS2022,Aluminum,2017,741,1590,2050,6220,700,1330,1570,5680,7730,98.3,1470,254,31700,59
+MCS2022,Aluminum,2018,891,1570,2140,5550,695,1310,1760,4900,7040,114.7,1570,186,31600,50
+MCS2022,Aluminum,2019,1093,1540,1920,5280,596,1110,1860,4980,6910,99.5,1600,120,32900,47
+MCS2022,Aluminum,2020,1012,1420,1630,4320,542,905,1850,3980,5620,89.7,1490,235,30100,39
+MCS2022,Aluminum,2021,880,1500,1700,4800,700,820,2000,4300,6000,140,1700,100,30000,44
