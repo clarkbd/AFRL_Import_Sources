@@ -43,6 +43,8 @@ fig.show()
 
 import_source_slice['country_amount'] = salient_stats['calculated_imports'] * import_source_slice['Percentage'] /100
 import_source_slice['Commodity'] = commodity
+
+
 #columns = import_source_slice.columns.values.tolist()
 
 
