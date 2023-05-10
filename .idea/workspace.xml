@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dd6eacff-a625-405c-98a1-784f49c398ce" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/mcs2022-alumi_salient.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="dd6eacff-a625-405c-98a1-784f49c398ce" name="Changes" comment="Building initial visualizations for consumption data">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Consumption_import.py" beforeDir="false" afterPath="$PROJECT_DIR$/Consumption_import.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,13 +37,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/Brian/clarkbd_codes/AFRL_Import_Sources_GIT"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/Brian/clarkbd_codes/AFRL_Import_Sources_GIT&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
@@ -59,9 +58,36 @@
       <option name="presentableId" value="Default" />
       <updated>1680850437217</updated>
     </task>
+    <task id="LOCAL-00001" summary="Building initial visualiztions for consumption data with line plots of last five years and stacked bar chart of current year import source categories">
+      <created>1683616231206</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1683616231206</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Building initial visualiztions for consumption data with line plots of last five years and stacked bar chart of current year import source categories">
+      <created>1683616249117</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683616249117</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Building initial visualizations for consumption data">
+      <created>1683616694602</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683616694602</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.csv" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Building initial visualiztions for consumption data with line plots of last five years and stacked bar chart of current year import source categories" />
+    <MESSAGE value="Building initial visualizations for consumption data" />
+    <option name="LAST_COMMIT_MESSAGE" value="Building initial visualizations for consumption data" />
   </component>
 </project>
